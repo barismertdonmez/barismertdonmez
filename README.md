@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-### - 👋 I’m @cagdasozer
-### - 👀 I want to work as a Full Stack Developer
-### - 🌱 I’m currently learning C#, .NetCore, Angular ...
-### - 📫 How to reach me ...
-### - https://www.linkedin.com/in/ozeerc/
-### - https://www.instagram.com/ozeerc/
-### - E-Mail-> cagdasozer12@gmail.com
